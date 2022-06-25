@@ -2231,7 +2231,7 @@
         "html-webpack-plugin": "^3.2.0",
         "husky": "^1.1.2",
         "immutable": "^4.0.0-rc.12",
-        "jsdom": "^15.0.0",
+        "jsdom": "^16.5.0",
         "json-loader": "^0.5.7",
         "less": "^3.9.0",
         "less-loader": "^5.0.0",
