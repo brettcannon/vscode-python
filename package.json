@@ -2212,7 +2212,7 @@
         "eslint-plugin-react": "^7.20.3",
         "eslint-plugin-react-hooks": "^4.0.0",
         "expose-loader": "^0.7.5",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "extract-zip": "^1.6.7",
         "fast-xml-parser": "^3.16.0",
         "file-loader": "^5.1.0",
