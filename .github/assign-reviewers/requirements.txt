@@ -154,7 +154,7 @@ uritemplate==3.0.1 \
     --hash=sha256:07620c3f3f8eed1f12600845892b0e036a2420acf513c53f7de0abd911a5894f \
     --hash=sha256:5af8ad10cec94f215e3f48112de2022e1d5a37ed427fbd88652fa908f2ab7cae
     # via gidgethub
-wheel==0.35.1 \
-    --hash=sha256:497add53525d16c173c2c1c733b8f655510e909ea78cc0e29d374243544b77a2 \
-    --hash=sha256:99a22d87add3f634ff917310a3d87e499f19e663413a52eb9232c447aa646c9f
+wheel==0.38.1 \
+    --hash=sha256:7a95f9a8dc0924ef318bd55b616112c70903192f524d120acc614f59547a9e1f \
+    --hash=sha256:ea041edf63f4ccba53ad6e035427997b3bb10ee88a4cd014ae82aeb9eea77bb9
     # via -r requirements.in
